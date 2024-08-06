@@ -1,24 +1,10 @@
-<!--
-**ze1or/ze1or** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Hi there, I'm Lorenzo 👋
 Welcome to my GitHub profile!
 
 ## About Me
-I am a student of Mathematic Science for Artificial Intelligence (SMIA) at the university of Rome La Sapienza. My passion lies at the intersection of mathematics and AI, and I'm dedicated to exploring how mathematical principles can drive advancements in artificial intelligence.
+I am a student of "Mathematic Science for Artificial Intelligence" (SMIA) at the university of Rome "La Sapienza". My passion lies at the intersection of mathematics and AI, and I'm dedicated to exploring how mathematical principles can drive advancements in artificial intelligence.
 
-- 🎓 Education: Studying SMIA (Mathematic Science for Artificial Intelligence)
+- 🎓 Education: bachelor degree of SMIA (in progress)
 - 🔍 Interests: AI, Machine Learning, Data Science, Mathematical Modelling
 - 🌱 Currently Learning: Advanced Machine Learning algorithms, Deep Learning, Data Analysis
 
