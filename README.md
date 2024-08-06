@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile!
 
 ## About Me
-I am a student of Mathematic Science for Artificial Intelligence (SMIA). My passion lies at the intersection of mathematics and AI, and I'm dedicated to exploring how mathematical principles can drive advancements in artificial intelligence.
+I am a student of Mathematic Science for Artificial Intelligence (SMIA) at the university of Rome La Sapienza. My passion lies at the intersection of mathematics and AI, and I'm dedicated to exploring how mathematical principles can drive advancements in artificial intelligence.
 
 - 🎓 Education: Studying SMIA (Mathematic Science for Artificial Intelligence)
 - 🔍 Interests: AI, Machine Learning, Data Science, Mathematical Modelling
