@@ -22,15 +22,8 @@ I am a student of Mathematic Science for Artificial Intelligence (SMIA). My pass
 - 🔍 Interests: AI, Machine Learning, Data Science, Mathematical Modelling
 - 🌱 Currently Learning: Advanced Machine Learning algorithms, Deep Learning, Data Analysis
 
-
-Skills
-Programming Languages: Python, R, MATLAB, [Other Languages]
-Libraries and Frameworks: TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy
-Tools: Git, Jupyter Notebooks, [Other Tools]
-Get in Touch
+## Get in Touch
 I'm always open to collaborating on interesting projects and discussing new ideas. Don't hesitate to reach out to me!
 
-📧 Email: [Your Email]
-💼 LinkedIn: [Your LinkedIn Profile]
-🌐 Personal Website: [Your Website] (if applicable)
+📧 Email: [n.lorenzoaziendale@gmail.com]
 Thank you for visiting my profile!
