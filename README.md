@@ -12,4 +12,5 @@ I am a student of "Mathematic Science for Artificial Intelligence" (SMIA) at the
 I'm always open to collaborating on interesting projects and discussing new ideas. Don't hesitate to reach out to me!
 
 📧 Email: [n.lorenzoaziendale@gmail.com]
+
 Thank you for visiting my profile!
